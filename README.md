@@ -62,8 +62,8 @@ Memory State:
 
 
 🛠️ Technologies Used:
-C++
-Standard Template Library (STL)
+C++,
+Standard Template Library (STL),
 list
 
 
