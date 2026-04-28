@@ -61,7 +61,7 @@ Memory State:
 [P1: 200] [Free: 800]
 
 
-🛠️ Technologies Used
+🛠️ Technologies Used:
 C++
 Standard Template Library (STL)
 list
@@ -72,6 +72,8 @@ Memory Management
 Fragmentation
 Dynamic Allocation
 Data Structures (Linked List via STL)
+
+
 📌 Future Improvements
 Add GUI visualization
 Support paging and segmentation
