@@ -1,4 +1,3 @@
-# System Engineering Project
 🧠 Memory Allocation Simulator (C++)
 
 This project is a simple Memory Management Simulator written in C++. It demonstrates how different memory allocation strategies work in Operating Systems.
